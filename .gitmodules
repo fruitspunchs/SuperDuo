@@ -1,0 +1,6 @@
+[submodule "alexandria"]
+	path = alexandria
+	url = ./alexandria
+[submodule "footballscores"]
+	path = footballscores
+	url = ./footballscores
