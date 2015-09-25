@@ -41,6 +41,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:contentDescription="@string/cd_home_crest"
                 tools:src="@drawable/aston_villa"/>
 
             <TextView
@@ -91,6 +92,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:contentDescription="@string/cd_away_crest"
                 tools:src="@drawable/arsenal"/>
 
             <TextView

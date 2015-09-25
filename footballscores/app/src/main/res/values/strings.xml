@@ -43,7 +43,9 @@
     <string name="hashtag" translatable="false">#Football_Scores</string>
 
     <!-- Content Descriptions-->
-    <string name="share_button">share button</string>
+    <string name="cd_share_button">share button</string>
+    <string name="cd_home_crest">home crest</string>
+    <string name="cd_away_crest">away crest</string>
 
     <!-- Widget-->
     <string name="empty_games_list">No match data available.</string>
